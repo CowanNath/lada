@@ -4,6 +4,8 @@
   Lada
 </h1>
 
+[中文](https://github.com/CowanNath/lada/blob/main/README_CN.md)
+
 *Lada* is a tool designed to recover pixelated adult videos (JAV). It helps restore the visual quality of such content, making it more enjoyable to watch.
 
 ## Features
