@@ -4,6 +4,8 @@
   Lada
 </h1>
 
+[English](https://github.com/CowanNath/lada/blob/main/README_EN.md)
+
 *Lada* 是一个用于恢复像素化成人视频（JAV）的工具。它帮助恢复此类内容的视觉质量，使其观看起来更加愉悦。
 
 ## 功能特点
